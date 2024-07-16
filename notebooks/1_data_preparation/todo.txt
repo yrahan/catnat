@@ -1,0 +1,2 @@
+explore communes
+have some map/heat map about number of disaster/ typ of disaster, try to get some insights.
