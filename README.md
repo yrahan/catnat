@@ -4,6 +4,7 @@ Predicting declarations of natural disaster status in France based on weather da
 
 https://github.com/hardefarogonondo/data-science-project-folder-structure
 
+```
 
 .
 ├── data
@@ -27,5 +28,5 @@ https://github.com/hardefarogonondo/data-science-project-folder-structure
         └── config
 
 
-
+```
 
