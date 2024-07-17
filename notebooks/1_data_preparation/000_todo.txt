@@ -1,3 +1,6 @@
 use branch, stage than merge, lookup for appropriate namings
 explore communes
 have some map/heat map about number of disaster/ typ of disaster, try to get some insights.
+
+
+some other test
