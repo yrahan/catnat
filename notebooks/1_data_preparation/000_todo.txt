@@ -4,3 +4,6 @@ have some map/heat map about number of disaster/ typ of disaster, try to get som
 
 
 test staging branch
+
+
+some other stuff done too.
