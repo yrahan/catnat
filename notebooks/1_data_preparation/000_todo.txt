@@ -3,4 +3,4 @@ explore communes
 have some map/heat map about number of disaster/ typ of disaster, try to get some insights.
 
 
-plot max and median of event duration through years, use plotly to swich between max and mean for each disaster
+plot max and median of event duration through years, use Plotly to switch between max and mean for each disaster
