@@ -4,3 +4,9 @@ have some map/heat map about number of disaster/ typ of disaster, try to get som
 
 
 plot max and median of event duration through years, use Plotly to switch between max and mean for each disaster
+
+
+virer les Nas , voir si api fonctionne mieux avec CODE_COR
+
+Si c bon, mettre localisation et enregistrer à nouveau
+
