@@ -10,3 +10,6 @@ virer les Nas , voir si api fonctionne mieux avec CODE_COR
 
 Si c bon, mettre localisation et enregistrer à nouveau
 
+
+regarder année par année evolution decision (reconnue, ...)
+
