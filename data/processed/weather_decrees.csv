@@ -1,0 +1,88 @@
+,0
+date_1,datetime64[ns]
+latitude_1,float64
+longitude_1,float64
+u10_1,float32
+v10_1,float32
+t2m_1,float64
+sp_1,float32
+tp_1,float32
+e_1,float32
+sro_1,float32
+tcrw_1,float32
+stl1_1,float64
+stl2_1,float64
+slt_1,object
+swvl1_1,float32
+swvl2_1,float32
+cvh_1,float32
+cvl_1,float32
+tvh_1,object
+tvl_1,object
+month_1,int32
+year_1,int32
+u10_ref_1,float32
+u10_delta_1,float32
+v10_ref_1,float32
+v10_delta_1,float32
+t2m_ref_1,float64
+t2m_delta_1,float64
+sp_ref_1,float32
+sp_delta_1,float32
+tp_ref_1,float32
+tp_delta_1,float32
+e_ref_1,float32
+e_delta_1,float32
+sro_ref_1,float32
+sro_delta_1,float32
+tcrw_ref_1,float32
+tcrw_delta_1,float32
+stl1_ref_1,float64
+stl1_delta_1,float64
+stl2_ref_1,float64
+stl2_delta_1,float64
+swvl1_ref_1,float32
+swvl1_delta_1,float32
+swvl2_ref_1,float32
+swvl2_delta_1,float32
+cvh_ref_1,float32
+cvh_delta_1,float32
+cvl_ref_1,float32
+cvl_delta_1,float32
+latitude_rad_1,float64
+longitude_rad_1,float64
+insee_2,object
+nom_commune_2,object
+debut_evenement_2,datetime64[ns]
+fin_evenement_2,datetime64[ns]
+date_arrete_2,datetime64[ns]
+date_parution_jo_2,datetime64[ns]
+nom_peril_2,object
+code_peril_2,object
+franchise_2,object
+code_nor_2,object
+decision_2,object
+Code INSEE_2,object
+Code Postal_2,object
+Commune_2,object
+Département_2,object
+Région_2,object
+Statut_2,object
+Altitude Moyenne_2,float64
+Superficie_2,float64
+Population_2,float64
+geo_point_2d_2,object
+geo_shape_2,object
+ID Geofla_2,float64
+Code Commune_2,float64
+Code Canton_2,float64
+Code Arrondissement_2,float64
+Code Département_2,object
+Code Région_2,float64
+start_event_year_2,int64
+latitude_2,float64
+longitude_2,float64
+year_2,int64
+latitude_rad_2,float64
+longitude_rad_2,float64
+distance_km,float64

@@ -1,0 +1,15 @@
+use branch, stage than merge, lookup for appropriate namings
+explore communes
+have some map/heat map about number of disaster/ typ of disaster, try to get some insights.
+
+
+plot max and median of event duration through years, use Plotly to switch between max and mean for each disaster
+
+
+virer les Nas , voir si api fonctionne mieux avec CODE_COR
+
+Si c bon, mettre localisation et enregistrer à nouveau
+
+
+regarder année par année evolution decision (reconnue, ...)
+
