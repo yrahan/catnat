@@ -166,3 +166,4 @@ cython_debug/
 
 # Untrack
 weather_decrees.parquet
+*.parquet
