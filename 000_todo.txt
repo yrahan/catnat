@@ -1,3 +1,13 @@
+
+
+Faire secheresse annuelle, quelques stats, la merger, puis rouler jeunesse
+compet + hyper param + optunaregression logistique
+neural network pour time series
+
+dash (evolution depts en secheresse, et comparaison, des previsions, l'un a coté de l'autre)
+
+
+===============================
 use branch, stage than merge, lookup for appropriate namings
 explore communes
 have some map/heat map about number of disaster/ typ of disaster, try to get some insights.
@@ -12,4 +22,7 @@ Si c bon, mettre localisation et enregistrer à nouveau
 
 
 regarder année par année evolution decision (reconnue, ...)
+
+
+
 
