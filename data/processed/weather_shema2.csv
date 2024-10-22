@@ -11,8 +11,8 @@ stl2,float32
 slt,float32
 swvl1,float32
 swvl2,float32
-month,int32
 year,int32
+month,int32
 t2m_ref,float64
 t2m_std,float64
 t2m_delta,float64
