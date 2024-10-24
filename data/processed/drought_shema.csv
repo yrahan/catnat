@@ -1,0 +1,15 @@
+,0
+insee,object
+nom_commune,object
+debut_evenement,datetime64[ns]
+fin_evenement,datetime64[ns]
+date_arrete,datetime64[ns]
+date_parution_jo,datetime64[ns]
+nom_peril,object
+code_peril,object
+franchise,object
+code_nor,object
+decision,object
+event_length_days,int64
+year,int32
+event_year,int32
