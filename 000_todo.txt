@@ -1,5 +1,20 @@
 
 
+faire avec technques pour series temporels. faire les graph en html pour pas plomber le notebook
+
+fair edirect optunare
+
+faire regression logistic, random forest, xgboost
+faire neural network approprié
+
+limiter le test à max, train + 1 ans. prendre par exemple l'année 2020 (2000<=train <=2015<test<=2020< faire tests ultime sur 2021)
+
+ne pas oublier de faire reaprendre le model avec les meilleur parametre de 2000 à 2020. pour ensuite tester grandeur nature sur 2021
+
+
+apliquer des trucs special umbalanced (roc auc ? pour choisir le meilleur model, truc de neuronnes special ? ....)
+
+=====================================
 Faire secheresse annuelle, quelques stats, la merger, puis rouler jeunesse
 compet + hyper param + optunaregression logistique
 neural network pour time series
