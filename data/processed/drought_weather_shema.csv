@@ -6,7 +6,6 @@ longitude_1,float64
 year_1,int64
 decision_1,int64
 Code Postal_1,object
-Commune_1,object
 Département_1,object
 Région_1,object
 Code Département_1,object
