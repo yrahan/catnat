@@ -11,6 +11,7 @@ franchise,object
 code_nor,object
 decision,object
 event_length_days,int64
+applied,int64
 year,int64
 year_count,int64
 year_duration,int64
