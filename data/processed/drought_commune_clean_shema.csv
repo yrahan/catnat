@@ -4,6 +4,8 @@ nom_commune,object
 latitude,float64
 longitude,float64
 year,int64
+year_count,float64
+year_duration,float64
 applied,int64
 decision,int64
 Code Postal,object
