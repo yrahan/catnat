@@ -1,5 +1,9 @@
 
 
+voir la reponse gpt dans le word, utiliser direc les yearly temperature et precipitation avec du min max, mean et sum, 
+suivre les indications. dans un premier temps ne pas inclure les _z_. allez, courage ! ;)
+
+=========================
 faire avec technques pour series temporels. faire les graph en html pour pas plomber le notebook
 
 fair edirect optunare
