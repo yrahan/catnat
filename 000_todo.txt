@@ -1,5 +1,14 @@
 
+TODO
 
+
+I want you now to rewrite this notebook, or add a third one if possible and use a lightgbm model with those parameters. and for all the years in year_1, 
+i imagine they go from 2000 to 2020, i want you to use this parameters and give the outcomes for year 2000 and then train on 2000 and give for the year 2001 and then 
+train on 2000, test on 2001 and give prediction for 2003 and then train on 2000 
+
+
+
+==========================
 voir la reponse gpt dans le word, utiliser direc les yearly temperature et precipitation avec du min max, mean et sum, 
 suivre les indications. dans un premier temps ne pas inclure les _z_. allez, courage ! ;)
 
