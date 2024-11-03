@@ -1,0 +1,132 @@
+Rapport de classification pour chaque cycle d'entraînement:
+
+Année de test : 2011
+Meilleurs hyperparamètres : {'n_estimators': 109, 'max_depth': 8, 'learning_rate': 0.0011472709953833972, 'subsample': 0.9985934981868305, 'colsample_bytree': 0.7383666246318252}
+Meilleur seuil : 0.45000000000000007
+              precision    recall  f1-score   support
+
+  No Drought       0.97      0.33      0.49     16179
+     Drought       0.16      0.93      0.28      2300
+
+    accuracy                           0.40     18479
+   macro avg       0.57      0.63      0.38     18479
+weighted avg       0.87      0.40      0.46     18479
+
+
+Année de test : 2012
+Meilleurs hyperparamètres : {'n_estimators': 159, 'max_depth': 10, 'learning_rate': 0.02158708745272583, 'subsample': 0.7148761002676759, 'colsample_bytree': 0.6839585384457947}
+Meilleur seuil : 0.5500000000000002
+              precision    recall  f1-score   support
+
+  No Drought       0.98      0.91      0.94     15267
+     Drought       0.20      0.50      0.28       651
+
+    accuracy                           0.90     15918
+   macro avg       0.59      0.71      0.61     15918
+weighted avg       0.95      0.90      0.92     15918
+
+
+Année de test : 2013
+Meilleurs hyperparamètres : {'n_estimators': 278, 'max_depth': 9, 'learning_rate': 0.0021665102276391683, 'subsample': 0.7081512402794659, 'colsample_bytree': 0.7982566294152851}
+Meilleur seuil : 0.30000000000000004
+              precision    recall  f1-score   support
+
+  No Drought       1.00      0.58      0.73     15731
+     Drought       0.00      0.78      0.01        23
+
+    accuracy                           0.58     15754
+   macro avg       0.50      0.68      0.37     15754
+weighted avg       1.00      0.58      0.73     15754
+
+
+Année de test : 2014
+Meilleurs hyperparamètres : {'n_estimators': 83, 'max_depth': 3, 'learning_rate': 0.006003976931132847, 'subsample': 0.8593409699779202, 'colsample_bytree': 0.8619622377748937}
+Meilleur seuil : 0.5000000000000001
+              precision    recall  f1-score   support
+
+  No Drought       1.00      0.80      0.89     15729
+     Drought       0.01      0.68      0.02        44
+
+    accuracy                           0.80     15773
+   macro avg       0.50      0.74      0.45     15773
+weighted avg       1.00      0.80      0.89     15773
+
+
+Année de test : 2015
+Meilleurs hyperparamètres : {'n_estimators': 87, 'max_depth': 6, 'learning_rate': 0.001409376358403366, 'subsample': 0.6531487079956667, 'colsample_bytree': 0.622327549189175}
+Meilleur seuil : 0.5000000000000001
+              precision    recall  f1-score   support
+
+  No Drought       0.99      0.86      0.92     15647
+     Drought       0.06      0.66      0.11       206
+
+    accuracy                           0.86     15853
+   macro avg       0.53      0.76      0.51     15853
+weighted avg       0.98      0.86      0.91     15853
+
+
+Année de test : 2016
+Meilleurs hyperparamètres : {'n_estimators': 111, 'max_depth': 3, 'learning_rate': 0.004585308306362364, 'subsample': 0.6216618195632212, 'colsample_bytree': 0.793695866450663}
+Meilleur seuil : 0.5000000000000001
+              precision    recall  f1-score   support
+
+  No Drought       0.97      0.92      0.94     14849
+     Drought       0.30      0.52      0.38      1006
+
+    accuracy                           0.89     15855
+   macro avg       0.64      0.72      0.66     15855
+weighted avg       0.92      0.89      0.91     15855
+
+
+Année de test : 2017
+Meilleurs hyperparamètres : {'n_estimators': 111, 'max_depth': 8, 'learning_rate': 0.010032660587776769, 'subsample': 0.6775374612120062, 'colsample_bytree': 0.5770504826116031}
+Meilleur seuil : 0.5000000000000001
+              precision    recall  f1-score   support
+
+  No Drought       0.94      0.80      0.86     13650
+     Drought       0.34      0.65      0.44      2143
+
+    accuracy                           0.78     15793
+   macro avg       0.64      0.73      0.65     15793
+weighted avg       0.85      0.78      0.80     15793
+
+
+Année de test : 2018
+Meilleurs hyperparamètres : {'n_estimators': 51, 'max_depth': 6, 'learning_rate': 0.002118932615556025, 'subsample': 0.7027665571671894, 'colsample_bytree': 0.5452094472469045}
+Meilleur seuil : 0.5000000000000001
+              precision    recall  f1-score   support
+
+  No Drought       0.81      0.24      0.37     11776
+     Drought       0.28      0.84      0.42      4061
+
+    accuracy                           0.39     15837
+   macro avg       0.54      0.54      0.39     15837
+weighted avg       0.68      0.39      0.38     15837
+
+
+Année de test : 2019
+Meilleurs hyperparamètres : {'n_estimators': 89, 'max_depth': 6, 'learning_rate': 0.007957856476205534, 'subsample': 0.9200329871167376, 'colsample_bytree': 0.9933460510031491}
+Meilleur seuil : 0.5500000000000002
+              precision    recall  f1-score   support
+
+  No Drought       0.86      0.55      0.67     13042
+     Drought       0.23      0.61      0.34      2958
+
+    accuracy                           0.56     16000
+   macro avg       0.55      0.58      0.50     16000
+weighted avg       0.74      0.56      0.61     16000
+
+
+Année de test : 2020
+Meilleurs hyperparamètres : {'n_estimators': 231, 'max_depth': 8, 'learning_rate': 0.04066936893090924, 'subsample': 0.7537587265872342, 'colsample_bytree': 0.6507035535755049}
+Meilleur seuil : 0.6500000000000001
+              precision    recall  f1-score   support
+
+  No Drought       0.89      0.71      0.79     13258
+     Drought       0.27      0.54      0.36      2596
+
+    accuracy                           0.69     15854
+   macro avg       0.58      0.63      0.58     15854
+weighted avg       0.79      0.69      0.72     15854
+
+
