@@ -161,11 +161,11 @@ layout = pn.Column(
     pn.Spacer(height=20),
     slider,  # Place the slider directly below the maps
     pn.Spacer(height=20),
-    "# Drought Declarations per Year in French Communes",
+    "# Recognized Drought Status per Year in French Communes",
     pn.Spacer(height=20),
     pn.panel(update_line_chart)
 )
 
 # Serve the Panel application
 if __name__ == '__main__':
-    layout.show(port=8061, allow_websocket_origin=['*'])
+    layout.show(port=8065, allow_websocket_origin=['*'])
