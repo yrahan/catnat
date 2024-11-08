@@ -1,7 +1,42 @@
 
 TODO
 
+add commune as one hot ... with light gbm check if it s useful
+do some model stacking
+do the thing wit deepness and iteration on random forest and boosting algos
+at the top add some ridge 
 
+add altitude, superficie
+
+later add population, inputes and get density
+
+doo a dach things superpesition map like insee
+
+do the models comparesons like pierrodf
+
+de the descriptive things
+
+present to n+2, nantes, conf, inst, assur, bt, sistr, friendsistr, market, ...
+
+check numbers with bzno
+
+ask pist ameliorat and skill interest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+======================================
 I want you now to rewrite this notebook, or add a third one if possible and use a lightgbm model with those parameters. and for all the years in year_1, 
 i imagine they go from 2000 to 2020, i want you to use this parameters and give the outcomes for year 2000 and then train on 2000 and give for the year 2001 and then 
 train on 2000, test on 2001 and give prediction for 2003 and then train on 2000 
